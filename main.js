@@ -1,3 +1,4 @@
+#! usr/bin/env node
 // Import inquirer module to take input from users
 import inquirer from "inquirer";
 // Set a value for Balance, the amount is in $

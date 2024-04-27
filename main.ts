@@ -1,3 +1,5 @@
+#! usr/bin/env node
+
 // Import inquirer module to take input from users
 import inquirer from "inquirer";
 
